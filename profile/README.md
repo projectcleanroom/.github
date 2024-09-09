@@ -37,6 +37,26 @@
 - 설계를 잘하면, 더 나은 결과와 성공적인 프로젝트를 이끌 수 있습니다.
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 팀원 소개
+### Front-End
+| <img src="https://avatars.githubusercontent.com/u/159094699?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/172457805?v=4" width="150"> |
+|-------------------------------------|----------------------------------|
+| **이대성**                          | **김성우**                       |
+| FE 팀장                             | FE 팀원                          |
+| [Github 링크](https://github.com/genaileepro) | [Github 링크](https://github.com/sw326) |
+
+### Back-End
+| <img src="https://avatars.githubusercontent.com/u/151036497?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169512141?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/172457692?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169998489?v=4" width="150"> |
+|-------------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| **정시운**                          | **현정재**                       | **권하진**                       | **최윤지**                       |
+| BE 팀장                             | BE 팀원                          | BE 팀원                          | BE 팀원                          |
+| [Github 링크](https://github.com/siontext) | [Github 링크](https://github.com/HyeonJeongJae) | [Github 링크](https://github.com/hajin428) | [Github 링크](https://github.com/yoonji220) |
+
+### DevOps
+| <img src="https://avatars.githubusercontent.com/u/169139840?v=4" width="150">|
+|-------------------------------------|
+| **천장희**                          |
+| DevOps 팀원                         |
+| [Github 링크](https://github.com/jhchoen) |
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 기술 스택
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
