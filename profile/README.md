@@ -47,7 +47,7 @@
 ### Back-End & DevOps
 | <img src="https://avatars.githubusercontent.com/u/151036497?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169512141?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/172457692?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169998489?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169139840?v=4" width="150">|
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
-| **정시운**                          | **현정재**                       | **권하진**                       | **최윤지**                       |  **천장희**                          |
+| **정시온**                          | **현정재**                       | **권하진**                       | **최윤지**                       |  **천장희**                          |
 | BE 팀장                             | BE 팀원                          | BE 팀원                          | BE 팀원                          |  DevOps 팀원                         |
 | [Github 링크](https://github.com/siontext) | [Github 링크](https://github.com/HyeonJeongJae) | [Github 링크](https://github.com/hajin428) | [Github 링크](https://github.com/yoonji220) | [Github 링크](https://github.com/jhchoen) |
 
