@@ -29,7 +29,7 @@
 - **신뢰성 및 품질 보장**
   - 소비자들이 안심하고 청소 서비스를 이용할 수 있도록, 플랫폼에서 제공되는 서비스의 품질을 보장하고, 업체를 비교 분석하며 선택할 수 있는 기능을 제공해야 합니다.
 
-## Team Motivation
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> Team Motivation
 - 개발자는 단순한 코더가 아닌 엔지니어입니다.  
 - 엔지니어는 철저한 설계도를 작성하고, 그 설계도를 바탕으로 체계적인 엔지니어링을 실행합니다.   
 - 우리는 테스트를 통해 품질을 보증하며, 그 결과로 만들어진 산출물은 단순한 결과물이 아니라 지속적으로 발전시켜 나가야 할 자산입니다.  
@@ -37,8 +37,7 @@
 - 설계를 잘하면, 더 나은 결과와 성공적인 프로젝트를 이끌 수 있습니다.
 
 
-
-### 기술 스택(프론트)
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 기술 스택
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,4 +49,24 @@
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack_query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 주요 기능 소개
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 팀원 소개
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 서비스 아키텍처
+![image (3) (1)](https://github.com/user-attachments/assets/eb1b3f73-8065-47d1-b0cf-e618513ac385)
+
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> ERD
+![image (3) (2)](https://github.com/user-attachments/assets/cc6d7977-4201-48fd-ba65-467f689995f6)
+
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> POC
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 링크
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 추가 개선 방안 및 팀 목표 
+
+
 
