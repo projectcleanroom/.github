@@ -36,6 +36,7 @@
 - 우리는 설계를 더욱 정교하게 하고, 기술적 의사결정을 신중히 내리는 과정을 통해 고도화된 산출물을 만들어가겠습니다.   
 - 설계를 잘하면, 더 나은 결과와 성공적인 프로젝트를 이끌 수 있습니다.
 
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 팀원 소개
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 기술 스택
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,8 +52,6 @@
 ![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 주요 기능 소개
-
-# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 팀원 소개
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 서비스 아키텍처
 ![image (3) (1)](https://github.com/user-attachments/assets/eb1b3f73-8065-47d1-b0cf-e618513ac385)
