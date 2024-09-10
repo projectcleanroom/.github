@@ -1,5 +1,6 @@
-# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="30" height="30"> 깔끔한방
-![스크린샷 2024-09-09 155123 (1)](https://github.com/user-attachments/assets/f8f3d809-e4b7-4ae5-a3ba-506c1d1598f5)
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 깔끔한방
+![90](https://github.com/user-attachments/assets/40e41c5d-319a-4d85-9d2f-1a629d9d92c7)
+
 
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> ‘깔끔한 방’ 서비스 소개
