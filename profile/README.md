@@ -79,16 +79,14 @@
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> POC
 
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 추가 개선 방안 및 팀 목표 
+
+
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 바로가기 링크
 - [서비스 홈페이지](https://www.clean-room.co.kr/)
 - [소비자 스웨거](https://mb.clean-room.co.kr/swagger-ui/index.html#/)
 - [청소업체 스웨거](https://pt.clean-room.co.kr/swagger-ui/index.html#/)
 - [와이어 프레임](https://www.canva.com/design/DAGLWqWorMw/jQiYR7C1BtGn37JS92WGcA/edit)
 - [유저 플로우](https://app.diagrams.net/#G1C7F-7YTrrj5GN6io-2lenHBzUS2et9ZH#%7B%22pageId%22%3A%22ReBwz5dknbD1WBu8VFdt%22%7D)
-
-
-
-# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 추가 개선 방안 및 팀 목표 
-
-
 
