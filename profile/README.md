@@ -12,11 +12,11 @@
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 프로젝트 설치 및 실행 가이드
 이 가이드는 프로젝트의 백엔드와 프론트엔드 설치 및 실행 방법을 안내합니다.  
 
-### **사전 요구사항**
-- Java: Zulu 17
-- Spring boot 3.3.2
-- Node.js: 22.9.0
-- MySQL
+>### **사전 요구사항**
+>- Java: Zulu 17
+>- Spring boot 3.3.2
+>- Node.js: 22.9.0
+>- MySQL
 
 ### 백엔드 설치 및 실행 (clean_back)
 **1. 저장소 클론** (<u>clean_back: 고객 서버, clean_adm_back: 청소업체 서버</u>)
