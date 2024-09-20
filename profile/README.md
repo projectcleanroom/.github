@@ -48,7 +48,7 @@ cd clean_adm_back
 ### 프론트엔드 설치 및 실행 (clean_front)
 **1. 저장소 클론**
 ```
-git clone [프론트엔드_저장소_URL]
+git clone https://github.com/projectcleanroom/clean_front
 cd clean_front
 ```
 
