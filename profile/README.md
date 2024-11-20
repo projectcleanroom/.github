@@ -104,7 +104,6 @@ API 키와 같은 민감한 정보는 GitHub Secrets에 저장되어 있습니�
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 바로가기 링크
 - [와이어 프레임](https://www.canva.com/design/DAGLWqWorMw/jQiYR7C1BtGn37JS92WGcA/edit)
-- [유저 플로우](https://app.diagrams.net/#G1C7F-7YTrrj5GN6io-2lenHBzUS2et9ZH#%7B%22pageId%22%3A%22ReBwz5dknbD1WBu8VFdt%22%7D)
 - [백엔드 WIKI 바로가기](https://github.com/projectcleanroom/clean_back/wiki)
 
 
