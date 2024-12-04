@@ -208,6 +208,6 @@ API 키와 같은 민감한 정보는 GitHub Secrets에 저장되어 있습니�
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 바로가기 링크
 - [와이어 프레임](https://www.canva.com/design/DAGLWqWorMw/jQiYR7C1BtGn37JS92WGcA/edit)
-- [백엔드 WIKI 바로가기](https://github.com/projectcleanroom/clean_back/wiki)
+- [백엔드 WIKI 바로가기](https://www.canva.com/design/DAGYSs9TaqE/XYv7_xgCs_6SD2cCdj-Chg/edit)
 
 
