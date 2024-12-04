@@ -8,6 +8,110 @@
 - 청소업체는 소비자가 보낸 의뢰를 확인하고 견적을 작성, 발송해 줄 수 있습니다.
 - 소비자는 작성된 견적목록을 보고 비교분석 하여 원하는 청소업체를 선택할 수 있습니다.
 
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25">  프로젝트 기획 배경
+### 기획배경
+- **청소 서비스 수요 증가**
+  - 저장 강박, 1인 가구 증가, 빈번한 이사와 같은 사회적 트렌드로 인해 청소 서비스에 대한 수요가 폭발적으로 증가하고 있습니다. 
+  - 특히 대학생들이나 자취생들이 방학마다 새로운 공간으로 이사할 때, 청소 서비스에 대한 필요성이 크게 대두되고 있습니다.
+
+- **사용자 불편 해결**
+  - 현재 시장에는 다양한 청소 서비스가 존재하지만, 업체를 쉽게 비교하고 선택할 수 있는 사용자 친화적 플랫폼이 부족합니다.
+  - 이는 소비자들이 청소 서비스를 선택하는 데 많은 시간과 노력을 소비하게 만들며, 서비스 품질에 대한 신뢰성 문제도 있습니다.
+
+### 사용자 문제 해결
+- **청소 중계 서비스 플랫폼의 부재**
+  - 현재까지 사용자들이 여러 청소 업체를 비교하고 선택하는 과정을 단순화한 어플리케이션이나 플랫폼은 부족한 상태입니다.
+  - 따라서 청소 업체를 한곳에서 모아보고, 간편하게 예약하고 관리할 수 있는 솔루션이 필요합니다.
+
+- **신뢰성 및 품질 보장**
+  - 소비자들이 안심하고 청소 서비스를 이용할 수 있도록, 플랫폼에서 제공되는 서비스의 품질을 보장하고, 업체를 비교 분석하며 선택할 수 있는 기능을 제공해야 합니다.
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> Team Motivation
+- 개발자는 단순한 코더가 아닌 엔지니어입니다.  
+- 엔지니어는 철저한 설계도를 작성하고, 그 설계도를 바탕으로 체계적인 엔지니어링을 실행합니다.   
+- 우리는 테스트를 통해 품질을 보증하며, 그 결과로 만들어진 산출물은 단순한 결과물이 아니라  
+지속적으로 발전시켜 나가야 할 자산입니다.  
+- 우리는 설계를 더욱 정교하게 하고, 기술적 의사결정을 신중히 내리는 과정을 통해 고도화된 산출물을 만들어가겠습니다.   
+- 설계를 잘하면, 더 나은 결과와 성공적인 프로젝트를 이끌 수 있습니다.
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 팀원 소개
+### Front-End
+| <img src="https://avatars.githubusercontent.com/u/159094699?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/172457805?v=4" width="150"> |
+|-------------------------------------|----------------------------------|
+| **이대성**                          | **김성우**                       |
+| FE 팀장                             | FE 팀원                          |
+| [Github 링크](https://github.com/genaileepro) | [Github 링크](https://github.com/sw326) |
+
+### Back-End & DevOps
+| <img src="https://avatars.githubusercontent.com/u/151036497?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169512141?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/172457692?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169998489?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169139840?v=4" width="150">|
+|-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
+| **정시온**                          | **현정재**                       | **권하진**                       | **최윤지**                       |  **천장희**                          |
+| BE 팀장                             | BE 팀원                          | BE 팀원                          | BE 팀원                          |  DevOps 팀원                         |
+| [Github 링크](https://github.com/siontext) | [Github 링크](https://github.com/HyeonJeongJae) | [Github 링크](https://github.com/hajin428) | [Github 링크](https://github.com/yoonji220) | [Github 링크](https://github.com/jhchoen) |
+
+
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 기술 스택
+
+### Frontend
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/tanstack_query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache%20jmeter&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-DC382D?style=for-the-badge&logo=lombok&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-3182CE?style=for-the-badge&logo=lock&logoColor=white)
+![Logback](https://img.shields.io/badge/Logback-F7A41D?style=for-the-badge&logo=logback&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+### DevOps & Database
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache%20tomcat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Collaboration & Tools
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD-000000?style=for-the-badge&logo=data-modeling&logoColor=white)
+![Gather](https://img.shields.io/badge/Gather-FF5733?style=for-the-badge&logo=gather&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-00837F?style=for-the-badge&logo=mobaXterm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-6DB33F?style=for-the-badge&logo=xshell&logoColor=white)
+
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 서비스 아키텍처
+![image (3) (1)](https://github.com/user-attachments/assets/eb1b3f73-8065-47d1-b0cf-e618513ac385)
+
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> ERD
+![image (3) (2)](https://github.com/user-attachments/assets/cc6d7977-4201-48fd-ba65-467f689995f6)
+
+
+# <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> POC
+- [POC 바로가기](https://www.notion.so/48bb0884cdcb43b892cbcac1746c6cf9)
+
+
 
 # <img src="https://www.clean-room.co.kr/assets/icon-Utf2YN7S.png" width="25" height="25"> 프로젝트 설치 및 실행 가이드
 이 가이드는 프로젝트의 백엔드와 프론트엔드 설치 및 실행 방법을 안내합니다.  
